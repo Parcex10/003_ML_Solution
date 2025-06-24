@@ -49,9 +49,17 @@ Ambos modelos fueron evaluados con métricas de clasificación como accuracy, pr
 
 003_ML_Solution/
 ├── data/ # `SPY_dataset_project.csv`
+
+
 ├── notebooks/ # Notebooks base + reporte final llamado `Report_and_Solution.ipynb`
+
+
 ├── README.md # Introducción y contexto
+
+
 ├── requirements.txt # Dependencias
+
+
 └── utils.py # (opcional) Funciones personalizadas
 
 
